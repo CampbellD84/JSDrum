@@ -2,6 +2,7 @@
 
 html {
     font-size: 10px;
+    background-image: url("StageKit.jpg");
     background-size: cover;
 }
 
@@ -21,7 +22,7 @@ body, html {
 }
 
 .key {
-    border: .4rem solid black;
+    border: .4rem solid gray;
     border-radius: .5rem;
     margin: 1rem;
     font-size: 1.5rem;
